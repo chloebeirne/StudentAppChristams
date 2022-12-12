@@ -12,6 +12,6 @@ public class StudentApp {
         this.num2 = num2;
         this.name2 = name2;
 
-        public String
+        public String getName1
     }
 }
