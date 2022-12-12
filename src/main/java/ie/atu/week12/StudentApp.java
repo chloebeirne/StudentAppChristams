@@ -13,5 +13,6 @@ public class StudentApp {
         this.name2 = name2;
 
         public String getName1() return name1;
+
     }
 }
