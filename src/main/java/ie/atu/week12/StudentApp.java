@@ -11,5 +11,7 @@ public class StudentApp {
         this.num1 = num1;
         this.num2 = num2;
         this.name2 = name2;
+
+        public String
     }
 }
