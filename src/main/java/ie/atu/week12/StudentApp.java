@@ -14,5 +14,6 @@ public class StudentApp {
 
         public String getName1() return name1;
 
+
     }
 }
